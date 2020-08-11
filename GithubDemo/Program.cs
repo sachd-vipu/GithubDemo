@@ -12,6 +12,7 @@ namespace GithubDemo
             
         {
             Console.WriteLine("Github Demo");
+            Console.WriteLine("Change 1");
             Console.Read();
         }
     }
